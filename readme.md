@@ -1,5 +1,27 @@
+# PAPER
+
 This Github has been made available to share the code and the networks used in the paper: Evolution of robust cell differentiation mechanisms under epigenetic feedback
 https://arxiv.org/abs/2503.20651
+
+Here we share some of the animations created during the work to more clearly demonstrate the behaviour of the differentiation types.
+
+## Type A Fig. 3
+![TypeA_AllCellsOrbit](Selected_Animations/TypeA_AllCellsOrbit.gif)
+
+## Type B Fig. 6
+![TypeB_AllCellsOrbit](Selected_Animations/TypeB_AllCellsOrbit.gif)
+
+## Type C Limit Cycle Fig. 10
+![TypeC_QuenchedLimitCycleAllCellsOrbit](Selected_Animations/TypeC_QuenchedLimitCycleAllCellsOrbit.gif)
+
+## Type C Saddle Points Fig. 9.a
+![SaddleLikeShowcase_Lines](Selected_Animations/SaddleLikeShowcase_Lines.gif)
+
+## Saddle Points Approximation for Fig. 9.b
+![2DSaddleShowcase](Selected_Animations/2DSaddleShowcase.gif)
+
+The exact PCA was not recovered as stochasticity in the system was not seeded in the plot for the paper. Due to this the exact dynamics are slightly altered, but their general behaviour is still the same. Saddle nodes are shown through pink # signs when orbits diverge apart
+
 
 The code and analysis has been performed by Davey Plugers and is available to contact on:
 daveyplugers@gmail.com
